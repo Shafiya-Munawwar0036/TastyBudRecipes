@@ -18,7 +18,7 @@ You can visit the blog live at [Tasty Bud Recipes](https://shafiya-munawwar0036.
 Your feedback is always welcome! If you have suggestions for recipes or improvements, feel free to reach out through the blog or on social media.
 
 ## Contact
-For inquiries or suggestions, please contact me at [shafiyamunawwar123@gmail.com](mailto:shafiyamunawwar123@gmail.com). I’d love to hear from you!
+For inquiries or suggestions, please contact me at [Email](mailto:shafiyamunawwar123@gmail.com). I’d love to hear from you!
 
 ## Follow Us
 Stay updated with the latest recipes and tips by following the blog. Join our community and share your culinary creations!
