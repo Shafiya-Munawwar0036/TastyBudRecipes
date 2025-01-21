@@ -20,5 +20,9 @@ Your feedback is always welcome! If you have suggestions for recipes or improvem
 ## Contact
 For inquiries or suggestions, please contact me at [Email](mailto:shafiyamunawwar123@gmail.com). I’d love to hear from you!
 
-## Follow Us
-Stay updated with the latest recipes and tips by following the blog. Join our community and share your culinary creations!
+## Follow Me
+Stay updated with the latest recipes and tips by following the blog. Join my community and share your culinary creations!
+
+## Author
+**Shafiya Munawwar**  
+[GitHub Profile](https://github.com/shafiya-munawwar0036)
