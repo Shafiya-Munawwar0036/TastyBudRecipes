@@ -12,11 +12,11 @@ Tasty Bud Recipes is a blog dedicated to bringing you a variety of delicious and
 - **Cooking Tips**: Gain insights and tips that enhance your cooking skills and experience.
 
 ## How to View the Blog
-You can visit the blog live at [Tasty Bud Recipes](https://shafiya-munawwar0036.github.io/TastyBudRecipes/). Dive into a world of flavors and enjoy your culinary adventures!
+You can visit the blog live at [Tasty Bud Recipes](https://Safeeya-Munawwar.github.io/TastyBudRecipes/). Dive into a world of flavors and enjoy your culinary adventures!
 
 ## Project Report
 ```bash
-https://github.com/Shafiya-Munawwar0036/TastyBudRecipes/blob/main/Tasty%20Bud%20Recipes%20Peoject%20Report.pdf
+https://github.com/Safeeya-Munawwar/TastyBudRecipes/blob/main/Tasty%20Bud%20Recipes%20Peoject%20Report.pdf
 ```
 ## How to Contribute
 Your feedback is always welcome! If you have suggestions for recipes or improvements, feel free to reach out through the blog or on social media.
