@@ -22,11 +22,11 @@ https://github.com/Safeeya-Munawwar/TastyBudRecipes/blob/main/Tasty%20Bud%20Reci
 Your feedback is always welcome! If you have suggestions for recipes or improvements, feel free to reach out through the blog or on social media.
 
 ## Contact
-For inquiries or suggestions, please contact me at [Email](mailto:shafiyamunawwar123@gmail.com). I’d love to hear from you!
+For inquiries or suggestions, please contact me at [Email](mailto:shafiyasha0036@gmail.com). I’d love to hear from you!
 
 ## Follow Me
 Stay updated with the latest recipes and tips by following the blog. Join my community and share your culinary creations!
 
 ## Author
-**Shafiya Munawwar**  
-[GitHub Profile](https://github.com/shafiya-munawwar0036)
+**Safeeya Munawwar**  
+[GitHub Profile](https://github.com/Safeeya-Munawwar)
